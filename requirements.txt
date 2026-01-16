@@ -1,6 +1,6 @@
 certifi==2017.7.27.1
 colorama==0.3.9
-future==0.16.0
+future==1.0.0
 libkeepass==0.2.0
 lxml==4.1.0
 peewee==2.10.2
